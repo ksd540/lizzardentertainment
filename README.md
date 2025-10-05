@@ -12,6 +12,6 @@ Home of Team 5s Engineering 1 project.
 Here you can play our [game].
 
 ## Version Control Repository
-[This] is where all our project files, with a complete history of changes, are located.
+[This](https://github.com/ksd540/eng1-project) is where all our project files, with a complete history of changes, are located.
 
 
