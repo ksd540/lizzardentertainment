@@ -2,10 +2,10 @@
 Home of Team 5s Engineering 1 project.
 
 ## Deliverables
-[Requirements]
-[Architecture]
-[Method selection and planning]
-[Risk Assessment and mitigation]
+[Requirements]\
+[Architecture]/
+[Method selection and planning]\
+[Risk Assessment and mitigation]\
 [Implementation]
 
 ## Our Game
