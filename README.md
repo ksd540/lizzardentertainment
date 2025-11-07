@@ -18,4 +18,4 @@ Here you can play our [game].
 
 ### Architecture
 #### Prototype ECS diagram
-<img src="https://github.com/ksd540/lizzardentertainment/blob/main/assets/FirstECSDiagram.drawio_1.png" alt="Prototype ECS diagram">
+<img src="https://github.com/ksd540/lizzardentertainment/blob/main/FirstECSDiagram.drawio_1.png" alt="Prototype ECS diagram">
