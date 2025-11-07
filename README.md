@@ -20,7 +20,7 @@ Here you can play our [game].
 #### Prototype ECS diagram
 ![alt text](https://github.com/ksd540/lizzardentertainment/blob/main/assets/FirstECSDiagram.drawio_1.png "Prototype ECS diagram")\
 Old component diagrams\
-CRC Cards
+![alt text](https://github.com/ksd540/lizzardentertainment/blob/main/assets/CRC%20Cards%20Physical.jpg "CRC cards")
 
 ### Requirements
 Stakeholder Interview
