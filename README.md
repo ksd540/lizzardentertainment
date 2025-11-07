@@ -20,7 +20,7 @@ Here you can play our [game].
 #### Prototype ECS diagram
 ![Prototype ECS diagram](assets/FirstECSDiagram.drawio_1.png)
 #### Old component diagrams
-![High Level Architecture Overview](/assets/High-Level%20Arch.%20Overview.png)
+![High Level Architecture Overview](assets/High-Level%20Arch.%20Overview.png)
 ![UIs and Menus](assets/UIs%20and%20Menus.png)
 ![World and Entities](assets/World%20and%20Entities.png)
 ![Game Logic and Events System](assets/Game%20Logic%20and%20Event%20System.png)
