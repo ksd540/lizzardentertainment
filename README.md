@@ -18,9 +18,9 @@ Here you can play our [game].
 
 ### Architecture
 #### Prototype ECS diagram
-![alt text](https://github.com/ksd540/lizzardentertainment/blob/main/assets/FirstECSDiagram.drawio_1.png "Prototype ECS diagram")\
+![Prototype ECS diagram](https://github.com/ksd540/lizzardentertainment/blob/main/assets/FirstECSDiagram.drawio_1.png)\
 Old component diagrams\
-![alt text](https://github.com/ksd540/lizzardentertainment/blob/main/assets/CRC%20Cards%20Physical.jpg "CRC cards")
+![CRC cards](https://github.com/ksd540/lizzardentertainment/blob/main/assets/CRC%20Cards%20Physical.jpg)
 
 ### Requirements
 Stakeholder Interview
