@@ -18,7 +18,7 @@ Here you can play our [game].
 
 ### Architecture
 #### Prototype ECS diagram
-![Prototype ECS diagram](https://github.com/ksd540/lizzardentertainment/blob/main/assets/FirstECSDiagram.drawio_1.png)\
+![Prototype ECS diagram](https://github.com/ksd540/lizzardentertainment/blob/main/assets/FirstECSDiagram.drawio_1.png)
 #### Old component diagrams
 ![High Level Architecture Overview](https://github.com/ksd540/lizzardentertainment/blob/main/assets/High-Level%20Arch.%20Overview.png)
 ![UIs and Menus](https://github.com/ksd540/lizzardentertainment/blob/main/assets/UIs%20and%20Menus.png)
