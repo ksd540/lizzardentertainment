@@ -16,7 +16,7 @@ Here you can play our [game].
 
 ## Additional Content
 
-###Architecture
+### Architecture
 Prototype ECS diagram\
 Old component diagrams\
 CRC Cards
