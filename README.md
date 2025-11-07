@@ -17,7 +17,7 @@ Here you can play our [game].
 ## Additional Content
 
 ### Architecture
-Prototype ECS diagram\
+![alt text](https://github.com/ksd540/lizzardentertainment/blob/main/FirstECSDiagram.drawio_1.png Prototype ECS diagram")\
 Old component diagrams\
 CRC Cards
 
