@@ -30,9 +30,8 @@ The team broke down our game by creating physical CRC cards (see below). A typed
 ![CRC cards](assets/CRC%20Cards%20Physical.jpg)
 
 ### Requirements
-#### [Stakeholder Interview Questions and Notes](assets/Stakeholder Interview Questions.pdf)
+[Stakeholder Interview Questions and Notes](assets/Stakeholder Interview Questions.pdf)
 
 ### Planning
-#### Weekly Gantt charts
-#### Meeting minutes
+[Meeting minutes]()
 
