@@ -27,7 +27,7 @@ Here you can play our [game].
 ![Audio Subsystems and Integration](assets/Audio%20Subsystem%20and%20Integration.png)
 #### CRC cards
 The team broke down our game by creating physical CRC cards (see below). A typed up version of all the cards can be found [here](assets/CRC%20Cards.pdf).
-![CRC cards](assets/CRC%20Cards%20Physical.jpg)
+<img src="assets/CRC%20Cards%20Physical.jpg" alt="CRC cards" width="500" height="400">
 
 ### Requirements
 [Stakeholder Interview Questions and Notes](assets/Stakeholder%20Interview%20Questions.pdf)
