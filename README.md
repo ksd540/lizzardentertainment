@@ -19,12 +19,12 @@ Here you can play our [game].
 ## Additional Content
 
 -[Requirements](https://ksd540.github.io/lizzardentertainment/#requirements)
-....-[Stakeholder interview questions]()
+  -[Stakeholder interview questions]()
 
 -[Architecture](https://ksd540.github.io/lizzardentertainment/#architecture)
-....-[Prototype ECS diagram](https://ksd540.github.io/lizzardentertainment/#prototype-ecs-diagram)
-....-[Prototype component diagrams](https://ksd540.github.io/lizzardentertainment/#prototype-component-diagrams)
-....-[CRC cards](https://ksd540.github.io/lizzardentertainment/#crc-cards)
+  -[Prototype ECS diagram](https://ksd540.github.io/lizzardentertainment/#prototype-ecs-diagram)
+  -[Prototype component diagrams](https://ksd540.github.io/lizzardentertainment/#prototype-component-diagrams)
+  -[CRC cards](https://ksd540.github.io/lizzardentertainment/#crc-cards)
 
 -[Method selection and planning]()
 
