@@ -27,9 +27,11 @@ Here you can play our [game].
     * [CRC cards](https://ksd540.github.io/lizzardentertainment/#crc-cards) 
 
 * [Method selection and planning]()
+    * [Weekly Gantt Chart Diagrams]()
 
 ### Requirements
-[Stakeholder Interview Questions and Notes](assets/Stakeholder%20Interview%20Questions.pdf)
+#### Stakeholder Interview Questions
+Our Stakeholder Interview Questions can be found [here](assets/Stakeholder%20Interview%20Questions.pdf).
 
 ### Architecture
 #### Prototype ECS diagram
@@ -45,5 +47,5 @@ The team broke down our game by creating physical CRC cards (see below). A typed
 <img src="assets/CRC%20Cards%20Physical.jpg" alt="CRC cards" width="500" height="400">
 
 ### Method selection and planning
-[Meeting minutes]()
+#### Weekly Gantt Chart Diagrams
 
