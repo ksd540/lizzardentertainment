@@ -24,7 +24,7 @@ Here you can play our [game].
 ![UIs and Menus](assets/UIs%20and%20Menus.png)
 ![World and Entities](assets/World%20and%20Entities.png)
 ![Game Logic and Events System](assets/Game%20Logic%20and%20Event%20System.png)
-![Audio Subsystems and Integration](https://github.com/ksd540/lizzardentertainment/blob/main/assets/Audio%20Subsystem%20and%20Integration.png =25x15)
+![Audio Subsystems and Integration](assets/Audio%20Subsystem%20and%20Integration.png)
 #### CRC cards
 The team broke down our game by creating physical CRC cards (see below). A typed up version of all the cards can be found [here](assets/CRC%20Cards.pdf).
 ![CRC cards](assets/CRC%20Cards%20Physical.jpg)
