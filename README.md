@@ -18,15 +18,15 @@ Here you can play our [game].
 
 ## Additional Content
 
--[Requirements](https://ksd540.github.io/lizzardentertainment/#requirements) 
-    - [Stakeholder interview questions]() 
+* [Requirements](https://ksd540.github.io/lizzardentertainment/#requirements) 
+    * [Stakeholder interview questions]() 
 
--[Architecture](https://ksd540.github.io/lizzardentertainment/#architecture) 
-    - [Prototype ECS diagram](https://ksd540.github.io/lizzardentertainment/#prototype-ecs-diagram) 
-    - [Prototype component diagrams](https://ksd540.github.io/lizzardentertainment/#prototype-component-diagrams) 
-    - [CRC cards](https://ksd540.github.io/lizzardentertainment/#crc-cards) 
+* [Architecture](https://ksd540.github.io/lizzardentertainment/#architecture) 
+    * [Prototype ECS diagram](https://ksd540.github.io/lizzardentertainment/#prototype-ecs-diagram) 
+    * [Prototype component diagrams](https://ksd540.github.io/lizzardentertainment/#prototype-component-diagrams) 
+    * [CRC cards](https://ksd540.github.io/lizzardentertainment/#crc-cards) 
 
--[Method selection and planning]()
+* [Method selection and planning]()
 
 ### Requirements
 [Stakeholder Interview Questions and Notes](assets/Stakeholder%20Interview%20Questions.pdf)
