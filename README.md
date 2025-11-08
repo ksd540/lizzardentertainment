@@ -1,4 +1,4 @@
-<img src="assets/LizardLogo.png">
+<img src="assets/LizardLogo.png" width="50" height="50">
 
 # Lizzard Entertainment
 Home of Team 5s Engineering 1 project.
