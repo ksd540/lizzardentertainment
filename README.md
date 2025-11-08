@@ -3,7 +3,7 @@ Home of Team 5s Engineering 1 project.
 
 ## Deliverables
 [Requirements](assets/deliverables/Req1.pdf)\
-[Architecture]\
+[Architecture](assets/deliverables/Impl1.pdf)\
 [Method selection and planning]\
 [Risk Assessment and mitigation]\
 [Implementation]
