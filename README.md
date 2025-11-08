@@ -26,8 +26,8 @@ Here you can play our [game].
     * [Prototype component diagrams](https://ksd540.github.io/lizzardentertainment/#prototype-component-diagrams) 
     * [CRC cards](https://ksd540.github.io/lizzardentertainment/#crc-cards) 
 
-* [Method selection and planning]()
-    * [Weekly Gantt Chart Diagrams]()
+* [Method selection and planning](https://ksd540.github.io/lizzardentertainment/#method-selection-and-planning)
+    * [Weekly Gantt Chart Diagrams](https://ksd540.github.io/lizzardentertainment/#weekly-gantt-chart-diagrams)
 
 ### Requirements
 #### Stakeholder Interview Questions
@@ -44,6 +44,7 @@ Our Stakeholder Interview Questions can be found [here](assets/Stakeholder%20Int
 ![Audio Subsystems and Integration](assets/Audio%20Subsystem%20and%20Integration.png)
 #### CRC cards
 The team broke down our game by creating physical CRC cards (see below). A typed up version of all the cards can be found [here](assets/CRC%20Cards.pdf).
+\
 <img src="assets/CRC%20Cards%20Physical.jpg" alt="CRC cards" width="500" height="400">
 
 ### Method selection and planning
