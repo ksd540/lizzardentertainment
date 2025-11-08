@@ -7,7 +7,7 @@ Home of Team 5s Engineering 1 project.
 [Requirements](assets/deliverables/Req1.pdf)\
 [Architecture](assets/deliverables/Arch1.pdf)\
 [Method selection and planning](assets/deliverables/Plan1.pdf)\
-[Risk Assessment and mitigation](assets/deliverables/Risk1.pdf)\
+[Risk assessment and mitigation](assets/deliverables/Risk1.pdf)\
 [Implementation](assets/deliverables/Impl1.pdf)
 
 ## Our Game
@@ -17,11 +17,19 @@ Here you can play our [game].
 [This](https://github.com/ksd540/eng1-project) is where all our project files, with a complete history of changes, are located.
 
 ## Additional Content
+*Requirements
+....*[Stakeholder interview questions]()
+*Architecture
+....*[Prototype ECS diagram](https://ksd540.github.io/lizzardentertainment/#prototype-ecs-diagram)
+....*[Prototype component diagrams]()
+....*[CRC cards]()
+*Method selection and planning
+*Risk assessment and mitigation
 
 ### Architecture
 #### Prototype ECS diagram
 ![Prototype ECS diagram](assets/FirstECSDiagram.drawio_1.png)
-#### Old component diagrams
+#### Prototype component diagrams
 ![High Level Architecture Overview](assets/High-Level%20Arch.%20Overview.png)
 ![UIs and Menus](assets/UIs%20and%20Menus.png)
 ![World and Entities](assets/World%20and%20Entities.png)
