@@ -17,14 +17,19 @@ Here you can play our [game].
 [This](https://github.com/ksd540/eng1-project) is where all our project files, with a complete history of changes, are located.
 
 ## Additional Content
-*Requirements
-....*[Stakeholder interview questions]()
-*Architecture
-....*[Prototype ECS diagram](https://ksd540.github.io/lizzardentertainment/#prototype-ecs-diagram)
-....*[Prototype component diagrams]()
-....*[CRC cards]()
-*Method selection and planning
-*Risk assessment and mitigation
+
+-[Requirements](https://ksd540.github.io/lizzardentertainment/#requirements)
+....-[Stakeholder interview questions]()
+
+-[Architecture](https://ksd540.github.io/lizzardentertainment/#architecture)
+....-[Prototype ECS diagram](https://ksd540.github.io/lizzardentertainment/#prototype-ecs-diagram)
+....-[Prototype component diagrams](https://ksd540.github.io/lizzardentertainment/#prototype-component-diagrams)
+....-[CRC cards](https://ksd540.github.io/lizzardentertainment/#crc-cards)
+
+-[Method selection and planning]()
+
+### Requirements
+[Stakeholder Interview Questions and Notes](assets/Stakeholder%20Interview%20Questions.pdf)
 
 ### Architecture
 #### Prototype ECS diagram
@@ -39,9 +44,6 @@ Here you can play our [game].
 The team broke down our game by creating physical CRC cards (see below). A typed up version of all the cards can be found [here](assets/CRC%20Cards.pdf).
 <img src="assets/CRC%20Cards%20Physical.jpg" alt="CRC cards" width="500" height="400">
 
-### Requirements
-[Stakeholder Interview Questions and Notes](assets/Stakeholder%20Interview%20Questions.pdf)
-
-### Planning
+### Method selection and planning
 [Meeting minutes]()
 
