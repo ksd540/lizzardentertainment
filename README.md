@@ -58,6 +58,7 @@ The team broke down our game by creating physical CRC cards (see below). A typed
 ### Method selection and planning
 #### Weekly Gantt Chart Diagrams
 <img src="assets/gantt1.png" alt="Gantt Chart" width="300" height="334">
+\
 <img src="assets/gantt2.png" alt="Gantt Chart" width="577" height="291">
 <img src="assets/gantt3.png" alt="Gantt Chart" width="386" height="208">
 <img src="assets/gantt4.png" alt="Gantt Chart" width="376" height="309">
