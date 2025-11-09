@@ -48,10 +48,10 @@ The team broke down our game by creating physical CRC cards (see below). A typed
 
 ### Method selection and planning
 #### Weekly Gantt Chart Diagrams
-![Gantt Chart](assests/gantt1.png)
-![Gantt Chart](assests/gantt2.png)
-![Gantt Chart](assests/gantt3.png)
-![Gantt Chart](assests/gantt4.png)
-![Gantt Chart](assests/gantt5.png)
-![Gantt Chart](assests/gantt6.png)
+![Gantt Chart](assets/gantt1.png)
+![Gantt Chart](assets/gantt2.png)
+![Gantt Chart](assets/gantt3.png)
+![Gantt Chart](assets/gantt4.png)
+![Gantt Chart](assets/gantt5.png)
+![Gantt Chart](assets/gantt6.png)
 
