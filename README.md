@@ -2,6 +2,7 @@
 
 Home of Team 5's Engineering 1 project.
 
+# Contents
 * [Deliverables](https://ksd540.github.io/lizzardentertainment/#deliverables)
 * [Our Game](https://ksd540.github.io/lizzardentertainment/#our-game)
 * [Version Control Repository](https://ksd540.github.io/lizzardentertainment/#version-control-repository)
