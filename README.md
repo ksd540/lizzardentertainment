@@ -24,13 +24,13 @@ You can download and play our game [here](assets/UoYMaze.jar).
 ## Additional Content
 
 * [Requirements](https://ksd540.github.io/lizzardentertainment/#requirements) 
-    * [Stakeholder interview questions]() 
+    * [Stakeholder interview questions](https://ksd540.github.io/lizzardentertainment/#stakeholder-interview-questions) 
 
 * [Architecture](https://ksd540.github.io/lizzardentertainment/#architecture) 
     * [Prototype ECS diagram](https://ksd540.github.io/lizzardentertainment/#prototype-ecs-diagram) 
     * [Prototype component diagrams](https://ksd540.github.io/lizzardentertainment/#prototype-component-diagrams) 
     * [CRC cards](https://ksd540.github.io/lizzardentertainment/#crc-cards)
-    * [Methods and Functions](https://ksd540.github.io/lizzardentertainment/#method-and-functions)
+    * [Methods and Functions]((https://ksd540.github.io/lizzardentertainment/#methods-and-functions))
 
 * [Method selection and planning](https://ksd540.github.io/lizzardentertainment/#method-selection-and-planning)
     * [Weekly Gantt Chart Diagrams](https://ksd540.github.io/lizzardentertainment/#weekly-gantt-chart-diagrams)
