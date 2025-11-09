@@ -45,6 +45,8 @@ Our Stakeholder Interview Questions can be found [here](assets/Stakeholder%20Int
 The team broke down our game by creating physical CRC cards (see below). A typed up version of all the cards can be found [here](assets/CRC%20Cards.pdf).
 \
 <img src="assets/CRC%20Cards%20Physical.jpg" alt="CRC cards" width="500" height="400">
+#### Methods and Functions
+<img src="assets/Methods%20and%20Functions.png" alt="CRC cards">
 
 ### Method selection and planning
 #### Weekly Gantt Chart Diagrams
