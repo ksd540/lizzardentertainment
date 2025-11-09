@@ -1,7 +1,6 @@
 <img src="assets/LizardLogo.png" width="80" height="80">
 
-# Lizzard Entertainment 
-Home of Team 5s Engineering 1 project.
+Home of Team 5's Engineering 1 project.
 
 ## Deliverables
 [Requirements](assets/deliverables/Req1.pdf)\
@@ -11,7 +10,7 @@ Home of Team 5s Engineering 1 project.
 [Implementation](assets/deliverables/Impl1.pdf)
 
 ## Our Game
-Here you can play our [game].
+You can download and play our game [here].
 
 ## Version Control Repository
 [This](https://github.com/ksd540/eng1-project) is where all our project files, with a complete history of changes, are located.
@@ -49,4 +48,10 @@ The team broke down our game by creating physical CRC cards (see below). A typed
 
 ### Method selection and planning
 #### Weekly Gantt Chart Diagrams
+![Gantt Chart](assests/gantt1.png)
+![Gantt Chart](assests/gantt2.png)
+![Gantt Chart](assests/gantt3.png)
+![Gantt Chart](assests/gantt4.png)
+![Gantt Chart](assests/gantt5.png)
+![Gantt Chart](assests/gantt6.png)
 
