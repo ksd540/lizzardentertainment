@@ -10,7 +10,7 @@ Home of Team 5's Engineering 1 project.
 [Implementation](assets/deliverables/Impl1.pdf)
 
 ## Our Game
-You can download and play our game [here](assets/UoyMaze.jar).
+You can download and play our game [here](assets/UoYMaze.jar).
 
 ## Version Control Repository
 [This](https://github.com/ksd540/eng1-project) is where all our project files, with a complete history of changes, are located.
